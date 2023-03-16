@@ -4,3 +4,4 @@ Hello World!
 -a
 -b
 -c
+-t
